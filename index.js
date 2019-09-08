@@ -6,7 +6,7 @@ export default class red extends React.Component {
     return (
       <View style={styles.panel}>
         <View style={styles.greetingBox}>
-          <Text style={styles.greeting}>Hello Appz</Text>
+          <Text style={styles.greeting}>Trying out react360</Text>
         </View>
       </View>
     );
